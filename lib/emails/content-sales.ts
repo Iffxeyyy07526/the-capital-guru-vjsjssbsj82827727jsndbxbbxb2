@@ -1,0 +1,92 @@
+export const SALES_EMAILS = [
+  {
+    subject: "Institutional Clearance: Your Invitation to Elite Transparency",
+    title: "Access the Institutional Infrastructure",
+    preview: "Stop guessing. Start executing with the precise transparency of smart money.",
+    body: "The retail market is designed to consume your capital. The Capital Guru is designed to protect it. Our institutional infrastructure provides you with the same data streams used by hedge funds and elite desks. Unlock your clearance today.",
+  },
+  {
+    subject: "Capital Preservation is the Only Goal",
+    title: "Why 95% of Traders Fail",
+    preview: "It's not your strategy. It's your infrastructure. Join the elite 5%.",
+    body: "Most traders enter the market blind. They chase signals without understanding the narrative. The Guru provides the narrative, the context, and the precision required for elite capital preservation.",
+  },
+  {
+    subject: "The Cost of Indecision",
+    title: "Market Efficiency waits for no one",
+    preview: "While you wait, the institution is positioning. Don't be the liquidity.",
+    body: "Every day you spend without institutional-grade insights is a day you are likely serving as someone else's exit liquidity. It's time to change sides.",
+  },
+  {
+    subject: "Elite Alpha: The Guru's Monthly Performance",
+    title: "Transparency in Execution",
+    preview: "View our latest accuracy reports. Institutional precision, documented.",
+    body: "We don't hide our logs. Our monthly accuracy and yield reports speak for themselves. This isn't gambling; it's professional allocation.",
+  },
+  {
+    subject: "The Professional's Edge",
+    title: "Upgrade to Titanium Infrastructure",
+    preview: "Your trading desk deserves more than retail tools. Get the Guru edge.",
+    body: "Professional traders don't use retail indicators. They use institutional logic. The Capital Guru delivers that logic directly to your terminal.",
+  },
+  {
+    subject: "Institutional Trapping 101",
+    title: "Are You the One Being Trapped?",
+    preview: "Identify institutional traps before they trigger. The Guru sees all.",
+    body: "Institutions move markets by trapping retail sentiment. If you don't see the trap, you are in it. Our advanced intelligence identifies these setups in real-time.",
+  },
+  {
+    subject: "Secure Your Q2 Allocation",
+    title: "Strategic Positioning for the Quarter",
+    preview: "The markets are shifting. Are you positioned with the smart money?",
+    body: "Quarterly shifts require institutional perspective. Our quarterly roadmap is now available for elite tier members. Secure your spot.",
+  },
+  {
+    subject: "High-Status Trading Infrastructure",
+    title: "Rolex Precision, BlackRock Vision",
+    preview: "Join the most elite trading community in the world.",
+    body: "Trading is a high-status pursuit. Your infrastructure should reflect that. The Capital Guru is the Rolex of trading terminals. Impeccable, precise, and authoritative.",
+  },
+  {
+    subject: "Wait for the Sweep",
+    title: "Patience is Your Greatest Asset",
+    preview: "The Guru teaches you when NOT to trade. Capital protection is key.",
+    body: "The difference between a amateur and a pro is patience. We provide the entry zones that institutions respect. No chasing. Only precision.",
+  },
+  {
+    subject: "The Narrative is Shifting",
+    title: "Global Macro Intelligence",
+    preview: "Understand the 'Why' behind every market move.",
+    body: "Price is just a number. Narrative is the engine. The Guru breaks down the global macro narrative so you can trade with absolute conviction.",
+  },
+  {
+    subject: "A Message from The Guru",
+    title: "Discipline is the Bridge",
+    preview: "Success isn't found in a signal. It's found in a system.",
+    body: "A signal is a moment. A system is a legacy. The Capital Guru provides the system that enables consistent, high-performance execution.",
+  },
+  {
+    subject: "Stop the Bleeding",
+    title: "Eliminate Retail Bias",
+    preview: "Retail bias is the reason you lose. Delete it with Guru insights.",
+    body: "Break free from the retail cycle of hope and despair. Trade based on institutional cold, hard facts. The Guru transition starts now.",
+  },
+  {
+    subject: "The Institutional Vault is Closing",
+    title: "Final Clearance for Elite Membership",
+    preview: "Limited spots remaining for the premium institutional tier.",
+    body: "To maintain our community's elite status, we limit memberships. Secure your clearance before the vault closes for the month.",
+  },
+  {
+    subject: "Wealth is Built on Precision",
+    title: "Fine-Tune Your Execution",
+    preview: "0.1% improvements lead to 100% results. Precision matters.",
+    body: "In the markets, a millisecond or a pip can be the difference. Our infrastructure ensures you have the tightest, most precise data possible.",
+  },
+  {
+    subject: "Your New Trading Reality",
+    title: "Step into the Future of Finance",
+    preview: "Say goodbye to old indicators. Say hello to institutional flow.",
+    body: "The world has changed. Retail tools are obsolete. The Guru is the future of retail-to-institutional bridge infrastructure.",
+  },
+];
